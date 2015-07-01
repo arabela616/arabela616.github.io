@@ -21,12 +21,6 @@ var map;
   };
   map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
   
-  var options = {
-    map: map,
-    position: new google.maps.LatLng(60, 105),
-    content: content
-  };
-  
   var infowindow = new google.maps.InfoWindow({
     map: map,
     position: pos,
