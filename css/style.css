@@ -13,6 +13,7 @@ body {
 }
 .site-name {
 	font-family: 'Raleway', sans-serif;
+	font-weight: 700;
 }
 html,
 body {
@@ -472,7 +473,7 @@ textarea {
 	color: #fff;
 	padding: 10px 20px;
 	font-size: 18px;
-	font-weight: 300;
+	font-weight: 700;
 }
 .main-navigation .navbar-default .navbar-nav > li.active > a {
 	background-color: transparent;
@@ -599,7 +600,7 @@ textarea {
 }
 .social-links li.twitter a:hover {
 	color: #55acee;
-}
+}		
 .social-links li.skype a:hover {
 	color: #00aff0;
 }
