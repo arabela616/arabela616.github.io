@@ -723,3 +723,7 @@ textarea {
 	margin: 0;
 	padding: 23%;
 }
+
+.carousel-control {
+    padding-top:200px;
+}
