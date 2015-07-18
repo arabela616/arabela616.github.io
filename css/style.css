@@ -718,6 +718,15 @@ textarea {
 	transform: scale(1);
 }
 
+.whatsapp{
+	background: url('http://www.boutiquebella.it/images/whatsapp.png') 0 0 no-repeat;
+	height: 24px;
+	float: left;
+	padding-left: 28px;
+	font-size: 10px;
+	line-height: 21px
+}
+
 #map-canvas {
   	width: 100%; 
 	margin: 0;
